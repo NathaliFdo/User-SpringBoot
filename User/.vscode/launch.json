@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ShopnestUserApplication<shopnest_user>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "shopnet_user.shopnest_user.ShopnestUserApplication",
+            "projectName": "shopnest_user",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
